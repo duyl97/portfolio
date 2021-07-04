@@ -133,7 +133,3 @@ section.footer
             p 
             h4
 ```
-
-
-
-# portfolio
