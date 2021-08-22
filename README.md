@@ -65,7 +65,7 @@ section.hero
                 img.hero__thumbnail
 ```
 ## Section - About
-```
+```html
 section.about
     div.container
         div.row
